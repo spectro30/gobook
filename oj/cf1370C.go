@@ -14,7 +14,7 @@ func isPrime (x int64) bool{
 	if x == 1{
 		return false
 	}
-	if(x == 2){
+	if x == 2 {
 		return true
 	}
 	var i int64

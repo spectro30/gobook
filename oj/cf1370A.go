@@ -9,5 +9,10 @@ func solve (){
 }
 
 func main() {
-	solve()
+	var tc int64
+	fmt.Scan(&tc)
+	for tc>0 {
+		solve()
+		tc--
+	}
 }
