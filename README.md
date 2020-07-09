@@ -1,2 +1,3 @@
 # gobook
-"An Introduction to Programming in Go" practice problems
+"An Introduction To Programming In Go"
+   Solutions of Practice Problems
